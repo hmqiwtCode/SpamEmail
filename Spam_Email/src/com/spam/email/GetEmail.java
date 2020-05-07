@@ -122,7 +122,7 @@ public class GetEmail extends HttpServlet {
 
 			Thread.sleep(50);
 		}
-		return;
+		return;;
 	}
 
 	public static String[] asStrings(Object... objArray) {
